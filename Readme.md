@@ -1,16 +1,16 @@
 # Netflix Data Analysis Project
 
-#### Objective
+#### Objective:
 This project applies Python (NumPy, Pandas, Matplotlib, Seaborn) to perform Exploratory Data Analysis (EDA) on the Netflix dataset.
 Netflix uses data analytics to:<br>
 Provide users with personalized recommendations<br>
 Predict the popularity of original content before production decisions
 
-#### Tasks Performed
+#### Tasks Performed:
 1. Removing the duplicate records from the dataset
 2. Checking if there is any null value present in the column
 
-#### Business Questions Solved
+#### Business Questions Solved:
 
 Q1. For Blood and Water, what is the show id and who is the director?<br>
 Q2. In which year was the highest number of TV shows released? (with bar graph)<br>
@@ -25,7 +25,7 @@ Q10. How can we sort the dataset by Year?<br>
 Q11. Find all the instances where:
 type is 'Movie' and listed_in is 'Dramas' or type is 'TV Show' and listed_in is 'Children'
 
-#### Visualizations
+#### Visualizations:
 -Heatmap → Check missing/null values<br>
 -Heatmap (Top 10 Years) → Titles count by year & type<br>
 -Scatterplot → Movie duration vs release year<br>
@@ -35,13 +35,13 @@ type is 'Movie' and listed_in is 'Dramas' or type is 'TV Show' and listed_in is 
 -Line Plot → Trend of titles released over years<br>
 -Bar Graph → Top 10 countries with the most content
 
-#### Libraries Used
+#### Libraries Used:
 -NumPy → numerical operations<br>
 -Pandas → data cleaning & manipulation<br>
 -Matplotlib → visualization<br>
 -Seaborn → advanced visualizations
 
-#### Insights
+#### Insights:
 
 -Netflix has shown a rapid increase in content releases after 2015, highlighting its global expansion strategy.<br>
 -Movies form the majority of the catalog, but TV Shows have seen steady growth in recent years.<br>
@@ -49,6 +49,7 @@ type is 'Movie' and listed_in is 'Dramas' or type is 'TV Show' and listed_in is 
 -Most movies fall within the 90–120 minute duration range, aligning with standard feature-length films.<br>
 -The TV-14 rating dominates among TV Shows, especially after 2018, indicating family/teen-focused content.<br>
 -A few top directors account for a large proportion of Netflix content, showing Netflix’s strong partnerships with leading creators.
+
 
 
 
