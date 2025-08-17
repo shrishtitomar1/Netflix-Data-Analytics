@@ -1,16 +1,16 @@
 # Netflix Data Analysis Project
 
-# Objective
+#### Objective
 This project applies Python (NumPy, Pandas, Matplotlib, Seaborn) to perform Exploratory Data Analysis (EDA) on the Netflix dataset.
 Netflix uses data analytics to:
 Provide users with personalized recommendations
 Predict the popularity of original content before production decisions
 
-# Tasks Performed
+#### Tasks Performed
 1. Removing the duplicate records from the dataset
 2. Checking if there is any null value present in the column
 
-# Business Questions Solved
+#### Business Questions Solved
 
 Q1. For Blood and Water, what is the show id and who is the director?
 Q2. In which year was the highest number of TV shows released? (with bar graph)
@@ -26,7 +26,7 @@ Q11. Find all instances where:
 Category = Movie and Genre = Dramas
 Category = TV Show and Genre = Kids TV
 
-# Visualizations
+#### Visualizations
 Heatmap – Check missing/null values
 Heatmap (Top 10 Years) – Titles count by year & type
 Scatterplot – Movie duration vs release year
@@ -36,19 +36,20 @@ Countplot – Count of Movies vs TV Shows
 Line Plot – Trend of titles released over years
 Bar Graph – Top 10 countries with the most content
 
-# Libraries Used
+#### Libraries Used
 NumPy → numerical operations
 Pandas → data cleaning & manipulation
 Matplotlib → visualization
 Seaborn → advanced visualizations
 
-# Insights
+#### Insights
 
 Netflix has seen rapid growth in content after 2015.
 The majority of content falls under Movies, but TV Shows are rising steadily.
 The USA and India are top contributors of Netflix titles.
 Most Movies are within 90–120 minutes duration.
 The TV-14 rating is dominant among TV shows, especially after 2018.
+
 
 
 
