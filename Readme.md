@@ -2,7 +2,7 @@
 
 #### Objective
 This project applies Python (NumPy, Pandas, Matplotlib, Seaborn) to perform Exploratory Data Analysis (EDA) on the Netflix dataset.
-Netflix uses data analytics to:
+Netflix uses data analytics to:<br>
 Provide users with personalized recommendations
 Predict the popularity of original content before production decisions
 
@@ -49,6 +49,7 @@ The majority of content falls under Movies, but TV Shows are rising steadily.
 The USA and India are top contributors of Netflix titles.
 Most Movies are within 90–120 minutes duration.
 The TV-14 rating is dominant among TV shows, especially after 2018.
+
 
 
 
