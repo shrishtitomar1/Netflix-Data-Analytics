@@ -19,36 +19,36 @@ Q4. Show all the movies released in 2020<br>
 Q5. Show only the Title of all TV shows released in India<br>
 Q6. Show Top 10 Directors with the highest number of shows/movies on Netflix<br>
 Q7. How many TV shows got the TV-14 rating after 2018?<br>
-Q8. What is the maximum duration of a Movie/TV Show on Netflix?<br>
-Q9. Which country has the highest number of TV shows?<br>
-Q10. How can we sort the dataset by year?<br>
-Q11. Find all instances where:
-Category = Movie and Genre = Dramas
-Category = TV Show and Genre = Kids TV
+Q8. Show Content Added Over Time.<br>
+Q9. Find Top 10 Countries with Most Titles.<br>
+Q10. How can we sort the dataset by Year?<br>
+Q11. Find all the instances where:
+type is 'Movie' and listed_in is 'Dramas' or type is 'TV Show' and listed_in is 'Children'
 
 #### Visualizations
-Heatmap – Check missing/null values
-Heatmap (Top 10 Years) – Titles count by year & type
-Scatterplot – Movie duration vs release year
-Bar Graph – Titles released per year
-Histogram – Movie durations distribution
-Countplot – Count of Movies vs TV Shows
-Line Plot – Trend of titles released over years
+Heatmap – Check missing/null values<br>
+Heatmap (Top 10 Years) – Titles count by year & type<br>
+Scatterplot – Movie duration vs release year<br>
+Bar Graph – Titles released per year<br>
+Histogram – Movie durations distribution<br>
+Countplot – Count of Movies vs TV Shows<br>
+Line Plot – Trend of titles released over years<br>
 Bar Graph – Top 10 countries with the most content
 
 #### Libraries Used
-NumPy → numerical operations
-Pandas → data cleaning & manipulation
-Matplotlib → visualization
+NumPy → numerical operations<br>
+Pandas → data cleaning & manipulation<br>
+Matplotlib → visualization<br>
 Seaborn → advanced visualizations
 
 #### Insights
 
-Netflix has seen rapid growth in content after 2015.
-The majority of content falls under Movies, but TV Shows are rising steadily.
-The USA and India are top contributors of Netflix titles.
-Most Movies are within 90–120 minutes duration.
+Netflix has seen rapid growth in content after 2015.<br>
+The majority of content falls under Movies, but TV Shows are rising steadily.<br>
+The USA and India are top contributors of Netflix titles.<br>
+Most Movies are within 90–120 minutes duration.<br>
 The TV-14 rating is dominant among TV shows, especially after 2018.
+
 
 
 
