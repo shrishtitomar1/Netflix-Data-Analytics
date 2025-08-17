@@ -26,14 +26,14 @@ Q11. Find all the instances where:
 type is 'Movie' and listed_in is 'Dramas' or type is 'TV Show' and listed_in is 'Children'
 
 #### Visualizations
--Heatmap – Check missing/null values<br>
--Heatmap (Top 10 Years) – Titles count by year & type<br>
--Scatterplot – Movie duration vs release year<br>
--Bar Graph – Titles released per year<br>
--Histogram – Movie durations distribution<br>
--Countplot – Count of Movies vs TV Shows<br>
--Line Plot – Trend of titles released over years<br>
--Bar Graph – Top 10 countries with the most content
+-Heatmap → Check missing/null values<br>
+-Heatmap (Top 10 Years) → Titles count by year & type<br>
+-Scatterplot → Movie duration vs release year<br>
+-Bar Graph → Titles released per year<br>
+-Histogram → Movie durations distribution<br>
+-Countplot → Count of Movies vs TV Shows<br>
+-Line Plot → Trend of titles released over years<br>
+-Bar Graph → Top 10 countries with the most content
 
 #### Libraries Used
 -NumPy → numerical operations<br>
@@ -49,6 +49,7 @@ type is 'Movie' and listed_in is 'Dramas' or type is 'TV Show' and listed_in is 
 -Most movies fall within the 90–120 minute duration range, aligning with standard feature-length films.<br>
 -The TV-14 rating dominates among TV Shows, especially after 2018, indicating family/teen-focused content.<br>
 -A few top directors account for a large proportion of Netflix content, showing Netflix’s strong partnerships with leading creators.
+
 
 
 
