@@ -1,4 +1,4 @@
-###### Netflix Data Analysis Project
+##### Netflix Data Analysis Project
 
 🎯 Objective
 
@@ -91,6 +91,7 @@ The USA and India are top contributors of Netflix titles.
 Most Movies are within 90–120 minutes duration.
 
 The TV-14 rating is dominant among TV shows, especially after 2018.
+
 
 
 
